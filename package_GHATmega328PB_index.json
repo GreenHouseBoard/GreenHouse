@@ -16,7 +16,7 @@
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
           "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GHATmega328PB.zip",
           "archiveFileName": "GHATmega328PB.zip",
-          "size": "81905",
+          "size": "82574",
           "boards": [
             { "name": "GhATmega328PB" }
           ]
