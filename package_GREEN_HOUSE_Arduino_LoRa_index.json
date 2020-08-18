@@ -11,6 +11,19 @@
         {
           "name": "GREEN HOUSE Arduino LoRa",
           "architecture": "avr",
+          "version": "1.0.2",
+          "category": "contributed",
+          "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
+          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_1-0-2.zip",
+          "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-2.zip",
+          "size": "99425",
+          "boards": [
+            { "name": "GREEN HOUSE Arduino LoRa" }
+          ]
+        },
+        {
+          "name": "GREEN HOUSE Arduino LoRa",
+          "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
