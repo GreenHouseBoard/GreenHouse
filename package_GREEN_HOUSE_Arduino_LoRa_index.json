@@ -9,7 +9,7 @@
 
       "platforms": [
         {
-          "name": "GREEN HOUSE Arduino LoRa",
+          "name": "GREEN HOUSE Arduino LoRa Test",
           "architecture": "avr",
           "version": "1.0.5",
           "category": "contributed",
@@ -18,11 +18,11 @@
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-5.zip",
           "size": "99767",
           "boards": [
-            { "name": "GREEN HOUSE Arduino LoRa" }
+            { "name": "GREEN HOUSE Arduino LoRa Test" }
           ]
         },
         {
-          "name": "GREEN HOUSE Arduino LoRa",
+          "name": "GREEN HOUSE Arduino LoRa Test",
           "architecture": "avr",
           "version": "1.0.4",
           "category": "contributed",
@@ -31,11 +31,11 @@
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-4.zip",
           "size": "99681",
           "boards": [
-            { "name": "GREEN HOUSE Arduino LoRa" }
+            { "name": "GREEN HOUSE Arduino LoRa Test" }
           ]
         },
         {
-          "name": "GREEN HOUSE Arduino LoRa",
+          "name": "GREEN HOUSE Arduino LoRa Test",
           "architecture": "avr",
           "version": "1.0.2",
           "category": "contributed",
@@ -44,11 +44,11 @@
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-2.zip",
           "size": "99628",
           "boards": [
-            { "name": "GREEN HOUSE Arduino LoRa" }
+            { "name": "GREEN HOUSE Arduino LoRa Test" }
           ]
         },
         {
-          "name": "GREEN HOUSE Arduino LoRa",
+          "name": "GREEN HOUSE Arduino LoRa Test",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
@@ -57,7 +57,7 @@
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa.zip",
           "size": "99237",
           "boards": [
-            { "name": "GREEN HOUSE Arduino LoRa" }
+            { "name": "GREEN HOUSE Arduino LoRa Test" }
           ]
         }
       ],
