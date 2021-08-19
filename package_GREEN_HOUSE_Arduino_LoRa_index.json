@@ -16,7 +16,7 @@
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
           "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_1-0-5.zip",
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-5.zip",
-          "size": "99745",
+          "size": "99730",
           "boards": [
             { "name": "GREEN HOUSE Arduino LoRa" }
           ]
