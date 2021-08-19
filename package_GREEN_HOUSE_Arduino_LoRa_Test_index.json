@@ -1,7 +1,7 @@
   {
   "packages": [
     {
-      "name": "GREEN_HOUSE_Arduino_LoRa",
+      "name": "GREEN_HOUSE_Arduino_LoRa_Test",
       "maintainer": "GREEN HOUSE",
       "websiteURL": "https://www.green-house.co.jp/iot-wireless",
       "email": "",
