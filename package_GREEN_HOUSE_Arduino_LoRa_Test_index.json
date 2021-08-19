@@ -14,7 +14,7 @@
           "version": "1.0.5",
           "category": "contributed",
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
-          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_1-0-5.zip",
+          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_Test_V_1-0-5.zip",
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-5.zip",
           "size": "99767",
           "boards": [
@@ -27,7 +27,7 @@
           "version": "1.0.4",
           "category": "contributed",
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
-          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_1-0-4.zip",
+          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_Test_1-0-4.zip",
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-4.zip",
           "size": "99681",
           "boards": [
@@ -40,7 +40,7 @@
           "version": "1.0.2",
           "category": "contributed",
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
-          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_1-0-2.zip",
+          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_V_Test_1-0-2.zip",
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa_V_1-0-2.zip",
           "size": "99628",
           "boards": [
@@ -53,7 +53,7 @@
           "version": "1.0.0",
           "category": "contributed",
           "help": { "online": "https://www.green-house.co.jp/iot-wireless" },
-          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa.zip",
+          "url": "https://github.com/GreenHouseBoard/GreenHouse/raw/master/GREEN_HOUSE_Arduino_LoRa_Test.zip",
           "archiveFileName": "GREEN_HOUSE_Arduino_LoRa.zip",
           "size": "99237",
           "boards": [
